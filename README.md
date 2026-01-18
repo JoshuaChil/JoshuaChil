@@ -6,7 +6,7 @@ I'm an engineer whose deeply excited about AI-interfaces, human-computer interac
 
 - 📷👓🤖 **Engineering Interest**: Currently exploring Smart Glasses Software, backed by Intel Corporation (Intel Global AI Awardee, 2025). I designed a perception architecture leveraging depth mapping algorithms + object detection and LLMs to enable metrically depth-aware navigation for the visually impaired. Next step: exploring how Edge-VLMs can be utilized to deploy a working system that doesn't stream private daily life over the web. 
 - ⭐ **Learning Goals (2026)**: Full-stack deployment/scaling (Docker, Kubernetes), Multi-Modal AI and Perception Models, AR Systems.
-- 🏛️📚🎸🏋️ **Beyond Buildling**: If I'm not buildling new ideas, catch me engaging in policy as a member of North Carolina's Student Gov. University System, reading (biographies!), practicing the guitar, or weight-lifting!
+- 🏛️📚🎸🏋️ **Beyond Building**: If I'm not building new ideas, catch me engaging in policy as a member of North Carolina's Student Gov. University System, reading (biographies!), practicing the guitar, or weight-lifting!
 -  E-Mail: [joshua.chilukuri@gmail.com](mailto:joshua.chilukuri@gmail.com)
 
 ## 📈 GitHub Stats
