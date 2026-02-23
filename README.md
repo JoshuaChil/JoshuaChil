@@ -21,14 +21,23 @@ I'm an engineer whose deeply excited about AI-interfaces, human-computer interac
 - **Databases:** PostgreSQL
 - **Tools & Platforms:** Git
 
+Add the following section to your README:
+
+---
+
+🌍 **Open Source Contributions**
+
+[RunAnywhere SDKs – PR #357]
+Contributed model compatibility checking to the RunAnywhere (YC26) GitHub repository. Implemented core C++ commons logic to check model size and memory requirements against device capabilities. Linked to the React Native SDK via TypeScript for testing. 
+
 📚 **Publications**
 
 [ISMAR-Adjunct 2025 Paper]
 IEEE International Symposium on Mixed and Augmented Reality (Adjunct).
 [https://www.computer.org/csdl/proceedings-article/ismar-adjunct/2025/](https://www.computer.org/csdl/proceedings-article/ismar-adjunct/2025/934700a320)
 
+[Accepted to CVPR-Findings 2026]
 A Neurosymbolic Framework for Interpretable Cognitive Attack Detection in Augmented Reality
-R. Chen et al., 2025. arXiv:2508.09185.
 [https://arxiv.org/abs/2508.09185](https://arxiv.org/abs/2508.09185)
 
 Predicting Low Food Access: An Empirical Assessment of Machine Learning Algorithms and Socio-Demographic Predictors
