@@ -28,7 +28,7 @@ Add the following section to your README:
 ## 🌍 Open Source Contributions
 
 **RunAnywhere SDKs – PR #357**
-Contributed model compatibility checking to the RunAnywhere (YC26) GitHub repository. Implemented core C++ commons logic to check model size and memory requirements against device capabilities. Linked to the React Native SDK via TypeScript for testing. 
+Contributed model compatibility checking to the RunAnywhere (YC W26) GitHub repository. Implemented core C++ commons logic to check model size and memory requirements against device capabilities. Linked to the React Native SDK via TypeScript for testing. 
 **Pull Request:**
 🔗 [https://github.com/RunanywhereAI/runanywhere-sdks/pull/357](https://github.com/RunanywhereAI/runanywhere-sdks/pull/357)
 
