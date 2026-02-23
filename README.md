@@ -32,7 +32,7 @@ Contributed model compatibility checking to the RunAnywhere (YC26) GitHub reposi
 **Pull Request:**
 🔗 [https://github.com/RunanywhereAI/runanywhere-sdks/pull/357](https://github.com/RunanywhereAI/runanywhere-sdks/pull/357)
 
-📚 **Publications**
+## 📚 Publications
 
 [ISMAR-Adjunct 2025 Paper]
 IEEE International Symposium on Mixed and Augmented Reality (Adjunct).
