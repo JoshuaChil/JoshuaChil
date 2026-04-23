@@ -1,6 +1,6 @@
 # Hey there! I'm Joshua Chilukuri! 
 
-I'm an engineer whose deeply excited about AI-interfaces, human-computer interaction, and software development. I'm currently an AR + AI researcher at Duke University (published in IEEE ISMAR, 2025), and co-founder of Hiant, a team collaborating with statewide non-profits (totaling 20K+ members) to deploy member management software. I love how technology can be used to augment human capabilities. Outside of computers, I also actively engage in policy initiatives, eager to be civically engaged and also examine the legal and ethical implications of the tools I build.  
+I'm an engineer whose deeply excited about AI-interfaces, human-computer interaction, and software development. I'm currently an AR + AI researcher at Duke University (published in IEEE ISMAR, 2025; Accepted to IEEE CVPR Findings 2026), and co-founder of Hiant, a team collaborating with statewide non-profits (totaling 20K+ members) to deploy member management software. I love how technology can be used to augment human capabilities. Outside of computers, I also actively engage in policy initiatives, eager to be civically engaged and also examine the legal and ethical implications of the tools I build.  
 
 ## 🚀 About Me
 
